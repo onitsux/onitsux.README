@@ -1,1 +1,2 @@
-# onitsux.README
+onitsu@kali: sudo su-
+
